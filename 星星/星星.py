@@ -12,6 +12,6 @@ s.right(150)
 s.forward(250)
 s.right(150)
 s.forward(250)
-s.right(150)
+s.right(135)
 #The end
 turtle.done()
